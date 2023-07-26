@@ -52,7 +52,7 @@ cat >module.json <<EOF
     {
       "type": "setup",
       "caption": "Foundry for Terminus",
-      "thumbnail": "/modules/lang-sv/foundry_lang_sv.svg"
+      "thumbnail": "/modules/lang-te/foundry_lang_sv.svg"
     }
   ],
   "flags": {

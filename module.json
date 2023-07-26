@@ -1,5 +1,5 @@
 {
-  "name" : "lang-sv",
+  "name" : "lang-te",
   "title" : "Terminus [Core]",
   "version" : "1.0.1",
   "minimumCoreVersion" : "0.7.9",
@@ -43,7 +43,7 @@
   {
     "type": "setup",
     "caption": "Foundry for Terminus",
-    "thumbnail": "/modules/lang-sv/foundry_lang_sv.svg"
+    "thumbnail": "/modules/lang-te/foundry_lang_sv.svg"
   }
 ],
 "flags": {
