@@ -1,7 +1,7 @@
 {
   "name" : "lang-te",
   "title" : "Terminus [Core]",
-  "version" : "1.0.1",
+  "version" : "1.0.2",
   "minimumCoreVersion" : "0.7.9",
   "compatibleCoreVersion" : "10",
   "compatibility": {
