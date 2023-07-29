@@ -1,7 +1,7 @@
 {
   "name" : "lang-te",
   "title" : "Terminus [Core]",
-  "version" : "1.0.2",
+  "version" : "1.0.4",
   "minimumCoreVersion" : "0.7.9",
   "compatibleCoreVersion" : "10",
   "compatibility": {
@@ -23,7 +23,7 @@
   "styles" : [],
   "url" : "https://github.com/PatrikOAndersson/foundryvtt-lang-terminus",
   "manifest" : "https://raw.githubusercontent.com/PatrikOAndersson/foundryvtt-lang-terminus/main/module.json",
-  "download" : "https://github.com/PatrikOAndersson/foundryvtt-lang-terminus/archive/v1.0.1.zip",
+  "download" : "https://github.com/PatrikOAndersson/foundryvtt-lang-terminus/archive/v1.0.4.zip",
   "authors": [
     {
       "name": "Patrik Andersson",
