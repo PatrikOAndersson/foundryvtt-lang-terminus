@@ -8,7 +8,7 @@ echo -n 'max core version: '
 read COMPATIBLE_CORE_VERSION
 cat >module.json <<EOF
 {
-    "name" : "lang-te",
+    "name" : "lang-se",
     "title" : "Terminus [Core]",
     "version" : "$VERSION",
     "minimumCoreVersion" : "$MINIMUM_CORE_VERSION",
@@ -22,7 +22,7 @@ cat >module.json <<EOF
     "coreTranslation": true,
     "languages" : [
       {
-         "lang" : "te",
+         "lang" : "se",
          "name" : "Terminus",
          "path" : "te.json"
       }
